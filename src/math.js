@@ -1,4 +1,4 @@
-const pi = 3.1415962
+const Pi = 3.1415962
 
 
 
@@ -13,6 +13,6 @@ function triplePi(){
 
 
 
-export  default pi; 
+export  default Pi; 
 
 export {doublePi, triplePi};
