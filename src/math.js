@@ -3,11 +3,11 @@ const Pi = 3.1415962
 
 
 function doublePi(){
-    return pi * 2
+    return Pi * 2
 }
 
 function triplePi(){
-    return pi * 2
+    return Pi * 2
 }
 
 
